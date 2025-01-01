@@ -26,7 +26,7 @@ Preprocessing
 ~~~~~~~~~~~~~
 
 .. automethod:: simvi.model.simvi.SimVIModel.setup_anndata
-.. autofunction:: simvi.model.simvi.extract_edge_index
+.. autofunction:: simvi.model.simvi.SimVIModel.extract_edge_index
 
 Training
 ~~~~~~~~~~~~~
