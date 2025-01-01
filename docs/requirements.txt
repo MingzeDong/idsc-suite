@@ -1,0 +1,27 @@
+# Core Sphinx setup
+sphinx>=4
+furo
+sphinx-copybutton
+sphinx-autodoc-typehints
+
+# Jupyter integration 
+myst-nb
+nbsphinx
+nbsphinx-link
+ipykernel
+ipython
+
+# Enhanced documentation features
+sphinx-design
+sphinxext-opengraph
+myst-parser
+sphinx-remove-toctrees
+sphinx-last-updated-by-git
+sphinx-automodapi
+
+# Academic references
+sphinxcontrib-bibtex
+
+# Core packages
+simvi==0.1.1
+scshift
