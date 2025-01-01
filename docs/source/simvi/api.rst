@@ -15,7 +15,7 @@ Methods Table
    :nosignatures:
 
    simvi.model.simvi.SimVIModel.setup_anndata
-   simvi.model.simvi.extract_edge_index
+   simvi.model.simvi.SimVIModel.extract_edge_index
    simvi.model.simvi.SimVIModel.train
    simvi.model.simvi.SimVIModel.get_latent_representation
    simvi.model.simvi.SimVIModel.get_attention
