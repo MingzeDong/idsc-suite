@@ -23,6 +23,6 @@ sphinx-automodapi
 sphinxcontrib-bibtex
 
 # Core packages
-simvi==0.1.1
+simvi==0.1.2
 scshift
 anndata==0.8.0
